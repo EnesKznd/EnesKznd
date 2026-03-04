@@ -90,8 +90,11 @@ Backend developer focused on building **reliable backend systems**, **Telegram b
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=eneskznd&show_icons=true&theme=radical&hide_border=true" height="180" />
-<img src="https://github-contributor-stats.vercel.app/api?username=eneskznd&limit=5&theme=dark&combine_all_yearly_contributions=true" height="180" width="400" />
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Eneskznd&theme=github-dark-blue&hide_border=true&fire=FFFFFF" height="180" />
+
+<img src="https://github-contributor-stats.vercel.app/api?username=EnesKznd&limit=5&theme=dark&combine_all_yearly_contributions=true" height="180" width="400" />
+
 </div>
 
 ---
