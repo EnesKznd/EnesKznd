@@ -52,7 +52,6 @@ Backend developer focused on building **reliable backend systems**, **Telegram b
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eneskznd) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eneskznd)
-[![Website](https://img.shields.io/badge/WebSite-333?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://stabilsystem.com)
 
 ---
 
